@@ -1,4 +1,5 @@
 Olá! 👋 Eu sou Victor Cézar
+
 Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Santa Cecília e tenho 28 anos. 
 Tenho conhecimentos básicos em C#, Java e Python, e atualmente estou aprimorando minhas habilidades em C# e Java por meio de cursos na Udemy.
 
